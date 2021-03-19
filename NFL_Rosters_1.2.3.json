@@ -35644,10 +35644,10 @@
     "ballSecurity": 71,
     "blockShedding": 21,
     "appearance": [
-      "Head3",
+      "Head1",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair2Brown",
+      "Beard2Brown"
     ],
     "greed": 17,
     "draftNum": 224,
@@ -61976,10 +61976,10 @@
     "ballSecurity": 70,
     "blockShedding": 17,
     "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
       "Hair4Black",
-      "Beard3Black"
+      "Beard1Black"
     ],
     "greed": 12,
     "draftNum": 1,
@@ -137486,21 +137486,21 @@
     "surname": "Rosen",
     "power": 88,
     "sPassAcc": 80,
-    "length": 2,
+    "length": 1,
     "growthType": 1,
     "ambition": 57,
     "ballSecurity": 62,
     "blockShedding": 20,
     "appearance": [
-      "Head3",
+      "Head1",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair2Brown",
+      "Beard3Brown"
     ],
     "greed": 39,
     "draftNum": 9,
     "trucking": 26,
-    "teamID": "TB",
+    "teamID": "SAN",
     "tackle": 25,
     "decisions": 45,
     "kickAccuracy": 17,
@@ -152166,10 +152166,10 @@
     "ballSecurity": 77,
     "blockShedding": 23,
     "appearance": [
-      "Head3",
+      "Head1",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair3Blonde",
+      "Beard1Blonde"
     ],
     "greed": 19,
     "draftNum": 155,
@@ -152224,10 +152224,10 @@
     "ballSecurity": 67,
     "blockShedding": 20,
     "appearance": [
-      "Head3",
+      "Head1",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair5Brown",
+      "Beard1Brown"
     ],
     "greed": 73,
     "draftNum": 126,
@@ -165796,10 +165796,10 @@
     "ballSecurity": 74,
     "blockShedding": 21,
     "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair5Black",
+      "Beard1Black"
     ],
     "greed": 17,
     "draftNum": 224,
