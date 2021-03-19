@@ -35528,10 +35528,10 @@
     "ballSecurity": 71,
     "blockShedding": 12,
     "appearance": [
-      "Head3",
+      "Head1",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair2Red",
+      "Beard1Red"
     ],
     "greed": 75,
     "draftNum": 34,
@@ -80420,10 +80420,10 @@
     "ballSecurity": 89,
     "blockShedding": 16,
     "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair5Black",
+      "Beard1Black"
     ],
     "greed": 64,
     "draftNum": 31,
@@ -87902,10 +87902,10 @@
     "ballSecurity": 75,
     "blockShedding": 45,
     "appearance": [
-      "Head3",
+      "Head6",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair6Black",
+      "Beard1Black"
     ],
     "greed": 5,
     "draftNum": 5,
@@ -105940,10 +105940,10 @@
     "ballSecurity": 86,
     "blockShedding": 32,
     "appearance": [
-      "Head3",
+      "Head1",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair5Brown",
+      "Beard1Brown"
     ],
     "greed": 77,
     "draftNum": 7,
@@ -116148,10 +116148,10 @@
     "ballSecurity": 82,
     "blockShedding": 14,
     "appearance": [
-      "Head3",
+      "Head4",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair5Black",
+      "Beard1Black"
     ],
     "greed": 95,
     "draftNum": 0,
@@ -136680,10 +136680,10 @@
     "ballSecurity": 70,
     "blockShedding": 19,
     "appearance": [
-      "Head3",
+      "Head2",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair3Brown",
+      "Beard4Brown"
     ],
     "greed": 8,
     "draftNum": 23,
