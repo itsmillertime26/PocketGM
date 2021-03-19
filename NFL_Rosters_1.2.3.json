@@ -75200,10 +75200,10 @@
     "ballSecurity": 64,
     "blockShedding": 19,
     "appearance": [
-      "Head3",
+      "Head1",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair1Black",
+      "Beard2Black"
     ],
     "greed": 30,
     "draftNum": 224,
@@ -109594,10 +109594,10 @@
     "ballSecurity": 79,
     "blockShedding": 30,
     "appearance": [
-      "Head3",
+      "Head1",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair6Black",
+      "Beard1Black"
     ],
     "greed": 86,
     "draftNum": 184,
