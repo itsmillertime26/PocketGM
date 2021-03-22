@@ -79550,15 +79550,15 @@
     "ballSecurity": 30,
     "blockShedding": 35,
     "appearance": [
-      "Head3",
+      "Head5",
       "Eyes3",
-      "Hair4Black",
-      "Beard3Black"
+      "Hair5Black",
+      "Beard1Black"
     ],
     "greed": 77,
     "draftNum": 80,
     "trucking": 33,
-    "teamID": "LAS",
+    "teamID": "SEA",
     "tackle": 35,
     "decisions": 71,
     "kickAccuracy": 20,
